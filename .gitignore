@@ -1,0 +1,10 @@
+.idea/
+__tests__
+android
+ios
+node_modules
+.babelrc
+.buckconfig
+.gitattributes
+.watchmanconfig
+npm-debug.log
